@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/spothana/embedded_design_patterns)
+![Stars](https://img.shields.io/github/stars/spothana/embedded_design_patterns)
+
 # Embedded Design Patterns — Study Guide
 
 A hands-on C + CMake project covering every design pattern in embedded systems.
